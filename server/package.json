@@ -1,0 +1,11 @@
+{
+  "name": "qpick-server",
+  "version": "1.0.0",
+  "description": "qpick ecommerce",
+  "main": "server",
+  "author": "Shakxzod Namazbaev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
